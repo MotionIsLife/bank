@@ -1,0 +1,13 @@
+/home/kprikhodko/Загрузки/com.devcolibri.dataexam/src/main/java/com/devcolibri/dataexam/entity/enums/WorkerStatus.java
+/home/kprikhodko/Загрузки/com.devcolibri.dataexam/src/main/java/com/devcolibri/dataexam/repository/ClientRepository.java
+/home/kprikhodko/Загрузки/com.devcolibri.dataexam/src/main/java/com/devcolibri/dataexam/repository/BankRepository.java
+/home/kprikhodko/Загрузки/com.devcolibri.dataexam/src/main/java/com/devcolibri/dataexam/entity/Client.java
+/home/kprikhodko/Загрузки/com.devcolibri.dataexam/src/main/java/com/devcolibri/dataexam/config/DataConfig.java
+/home/kprikhodko/Загрузки/com.devcolibri.dataexam/src/main/java/com/devcolibri/dataexam/service/impl/BankServiceImpl.java
+/home/kprikhodko/Загрузки/com.devcolibri.dataexam/src/main/java/com/devcolibri/dataexam/entity/BankAccount.java
+/home/kprikhodko/Загрузки/com.devcolibri.dataexam/src/main/java/com/devcolibri/dataexam/entity/Bank.java
+/home/kprikhodko/Загрузки/com.devcolibri.dataexam/src/main/java/com/devcolibri/dataexam/repository/WorkerRepository.java
+/home/kprikhodko/Загрузки/com.devcolibri.dataexam/src/main/java/com/devcolibri/dataexam/service/BankService.java
+/home/kprikhodko/Загрузки/com.devcolibri.dataexam/src/main/java/com/devcolibri/dataexam/repository/BankAccountRepositroy.java
+/home/kprikhodko/Загрузки/com.devcolibri.dataexam/src/main/java/com/devcolibri/dataexam/config/AppInitializer.java
+/home/kprikhodko/Загрузки/com.devcolibri.dataexam/src/main/java/com/devcolibri/dataexam/entity/Worker.java

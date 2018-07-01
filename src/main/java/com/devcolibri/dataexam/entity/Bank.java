@@ -13,7 +13,7 @@ public class Bank {
     @Column(name = "id", length = 6, nullable = false)
     private long id;
 
-    @Column(name = "name")
+    @Column(name = "name", unique = true)
     private String name;
 
     public Bank() {

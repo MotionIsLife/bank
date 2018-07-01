@@ -42,6 +42,9 @@ public class Client {
         this.bank = bank;
     }
 
+    public Client() {
+    }
+
     public long getId() {
         return id;
     }

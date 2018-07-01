@@ -1,0 +1,16 @@
+добавление клиента
+{
+  "firstName": "firstName",
+  "lastName": "lastName",
+  "phoneNumber": "phoneNumber",
+  "address": "address",
+  "email": "email",
+  "bank": {
+    "name": "Sberbank"
+  }
+}
+
+добавление банка
+{
+  "name": "Tinkoff"
+}

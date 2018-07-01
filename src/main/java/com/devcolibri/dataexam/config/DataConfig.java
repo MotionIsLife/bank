@@ -13,14 +13,16 @@ import org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean;
 import org.springframework.orm.jpa.vendor.Database;
 import org.springframework.orm.jpa.vendor.HibernateJpaVendorAdapter;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
+import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 
 import javax.annotation.Resource;
 import javax.sql.DataSource;
 import java.util.Properties;
 
+@EnableWebMvc
 @Configuration
 @EnableTransactionManagement
-@ComponentScan("com.devcolibri.dataexam")
+@ComponentScan(basePackages = {"com.devcolibri.dataexam", "com.devcolibri.dataexam.controller"})
 @PropertySource("classpath:app.properties")
 @EnableJpaRepositories("com.devcolibri.dataexam.repository")
 public class DataConfig {
